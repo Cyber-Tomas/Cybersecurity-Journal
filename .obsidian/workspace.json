@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network+ Notes/1.2.md",
+                "file": "Overthewire/bandit4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2"
+              "title": "bandit4"
             }
           }
         ],
@@ -184,11 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "918e4fe1f0adfacf",
+  "active": "17b93567b8f0def5",
   "lastOpenFiles": [
-    "Network+ Notes/1.1.md",
-    "Network+ Notes/1.2.md",
+    "Overthewire/bandit3.md",
+    "Overthewire/bandit4.md",
+    "Overthewire/bandit2.md",
+    "Overthewire/bandit1.md",
+    "Overthewire/bandit0.md",
     "Templates/Cybersecurity Journal Template.md",
+    "Overthewire",
+    "Network+ Notes/1.2.md",
+    "Network+ Notes/1.1.md",
+    "OSI Model.canvas",
+    "OSI-model.png",
+    "encapsulation and decapsulation.canvas",
+    "datacommunication.png",
     "Link to another related note]].md",
     "2025-09-21.md",
     "Network+ Notes",
