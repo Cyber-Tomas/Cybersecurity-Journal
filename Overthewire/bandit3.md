@@ -1,3 +1,17 @@
+---
+tags:
+  - linux
+  - cml
+  - terminal
+topic:
+  - Bandit Challenge
+related:
+  - "[[bandit1]]"
+  - "[[bandit2]]"
+source:
+  - overthewire.org
+date: 2025-09-24
+---
 ## Challenge was to navigate to another directory and find an hidden file
 ```bash
 # after logging in to bandit3 the first thing i did was to list the things 

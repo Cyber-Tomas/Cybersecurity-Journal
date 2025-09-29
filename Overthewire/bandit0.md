@@ -1,3 +1,16 @@
+---
+tags:
+  - linux
+  - terminal
+  - cml
+topic:
+  - Bandit Challenge
+related:
+source:
+  - overthewire.org
+date: 2025-09-21
+---
+
 ## Challenge to login to bandit1 using ssh 
 ```bash
 # logged in to bandit0 using ssh 

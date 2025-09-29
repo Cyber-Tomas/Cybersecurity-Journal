@@ -1,3 +1,16 @@
+---
+tags:
+  - linux
+  - terminal
+  - cml
+topic:
+  - Bandit Challenge
+related:
+  - "[[bandit0]]"
+source:
+  - overthewire.org
+date: 2025-09-22
+---
 ## Challenge was to find the password in bandit1 for bandit2
 ```bash
 # in level one of the bandit, the password is kept in a file named -

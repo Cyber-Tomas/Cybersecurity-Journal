@@ -1,3 +1,16 @@
+---
+tags:
+  - linux
+  - terminal
+  - cml
+topic:
+  - Bandit Challenge
+related:
+  - "[[bandit1]]"
+source:
+  - overthewire.org
+date: 2025-09-23
+---
 ## Challenge was to list the content of a file with spaces
 ```bash 
 # to complete this challenge i listed the files in the current directory
