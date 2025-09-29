@@ -52,9 +52,9 @@ Key Learning: I used the basic linux knowledge i had to complete this challenge,
 Date: 25th Sept, 2025.
 
 Topics to be studied:
-- [] Network Types
+- [x] Network Types
 - [] bandit 4->5
 
-Key Learning: 
+Key Learning: I learnt some additional network types that i have not learnt before like PAN, Peer to Peer and Client-Server. 
 
 Struggles:
